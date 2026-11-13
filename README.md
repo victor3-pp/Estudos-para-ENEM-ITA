@@ -1,4 +1,4 @@
 # Estudos-para-ENEM-ITA
 será adicionado mais coisas em breve
 LINK:
-curious-daifuku-301c73.netlify.app
+https://steady-begonia-342a29.netlify.app
